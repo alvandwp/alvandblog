@@ -1,5 +1,5 @@
 {
-	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
+	"$schema": "https://schemas.wp.org/wp/6.6/theme.json",
 	"settings": {
 		"appearanceTools": true,
 		"layout": {
@@ -37,5 +37,5 @@
 			"name": "footer"
 		}
 	],
-	"version": 2
+	"version": 3
 }
