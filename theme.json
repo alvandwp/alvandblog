@@ -26,6 +26,16 @@
 		},
 		"useRootPaddingAwareAlignments": true
 	},
+	"styles": {
+		"spacing": {
+			"padding": {
+				"bottom": "0px",
+				"left": "24px",
+				"right": "24px",
+				"top": "0px"
+			}
+		}
+	},
 	"templateParts": [
 		{
 			"area": "header",
