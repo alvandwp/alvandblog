@@ -201,6 +201,13 @@
 		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--lora)"
+				}
+			}
+		},
 		"spacing": {
 			"padding": {
 				"bottom": "0px",
@@ -208,6 +215,9 @@
 				"right": "24px",
 				"top": "0px"
 			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--open-sans)"
 		}
 	},
 	"templateParts": [
